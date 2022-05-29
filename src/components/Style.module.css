@@ -1,0 +1,24 @@
+.center{
+    width: 30%;
+    margin: auto;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 40px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  }
+  
+  .mainbutton{
+    width: 100px;
+    height: 50px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border: none;
+    background-color: cornflowerblue;
+    cursor: pointer;
+    color: white;
+    border-radius: 10px;
+  }
+  .divgap{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+  }
